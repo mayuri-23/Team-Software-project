@@ -1,7 +1,19 @@
 # Team-Software-project
-1st first group project 
+1st first group project
+Team members
+============
 
-members
-=======
+
+
+Software Requirements
+=====================
+
+
+
+objective
+=========
+
+
+
 
 
