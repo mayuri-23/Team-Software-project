@@ -12,6 +12,9 @@ thushath
 
 Software Requirements
 =====================
+collect class fees
+mark the attendence
+
 
 
 
